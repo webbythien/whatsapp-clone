@@ -1,7 +1,7 @@
 # nextjs-whatsapp-clone-starter
 
 ## Demo Chat
-https://github.com/webbythien/whatsapp-clone/assets/54788371/1ef923b0-73b6-455e-9659-b84278f1adf1
+https://github.com/webbythien/whatsapp-clone/assets/54788371/4a9d4b30-af61-44a5-911b-55fc3ecab97b
 
 You can see that after recording, a download message will appear, because the internet download manager extension automatically recognizes the file to download, turn off the extension for the best experience.
 
