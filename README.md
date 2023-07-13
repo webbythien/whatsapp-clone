@@ -3,7 +3,7 @@
 ## Demo Chat
 https://github.com/webbythien/whatsapp-clone/assets/54788371/4a9d4b30-af61-44a5-911b-55fc3ecab97b
 
-You can see that after recording, a download message will appear, because the internet download manager extension automatically recognizes the file to download, turn off the extension for the best experience.
+You can see that after voice recording, a download message will appear, because the internet download manager extension automatically recognizes the file to download, turn off the extension for the best experience.
 
 ## Demo Register Avatar Profile User
 https://github.com/webbythien/whatsapp-clone/assets/54788371/0db78ec6-feb7-432a-a7e5-8c4dd8d212ab
