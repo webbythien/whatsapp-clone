@@ -2,6 +2,7 @@
 
 ## Demo Chat
 https://github.com/webbythien/whatsapp-clone/assets/54788371/3ef79bcc-2ff8-455a-bedb-e176bf717324
+
 You can see that after recording, a download message will appear, because the internet download manager extension automatically recognizes the file to download, turn off the extension for the best experience.
 
 ## Demo Register Avatar Profile User
